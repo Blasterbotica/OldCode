@@ -1,0 +1,8 @@
+prefix=/home/blasterbotica/catkin_ws/install
+
+Name: blasturtle_sim
+Description: Description of blasturtle_sim
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/blasterbotica/catkin_ws/install/lib 
+Requires: 

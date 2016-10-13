@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<opencv_storage>
+<type>#(0 circles, 1 aruco, 2 charuco)</type>
+<nlocs>#(number of targets, must be 5 for circles)</nlocs>
+<ids type_id="opencv-matrix">
+  <rows>#(must match nlocs)</rows>
+  <cols>#(1 circles/aruco, 4 charuco)</cols>
+  <dt>i</dt>
+  <data>
+    0 1 2 3</data></ids>
+<locations type_id="opencv-matrix">
+  <rows>#(must match nlocs)</rows>
+  <cols>#(1 cicles, 4 aruco/charuco)</cols>
+  <dt>"3f"</dt>
+  <data>
+    -75. 75. 0.     -5. 75. 0.      -5. 5. 0.       -75. 5. 0.
+    5. 75. 0.       75. 75. 0.      75. 5. 0.       5. 5. 0.
+    -75. -5. 0.     -5. -5 0.       -5. -75. 0.     -75. -75. 0.
+    5. -5. 0.       75. -5. 0.      75. -75. 0.     5. -75. 0.
+    </data></locations>
+<childBoard> (leave blank if no secondary pattern)
+    "hybrid_circles.xml"</childBoard>
+</opencv_storage>

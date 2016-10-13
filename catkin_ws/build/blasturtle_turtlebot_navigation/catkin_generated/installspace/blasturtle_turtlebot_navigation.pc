@@ -1,0 +1,8 @@
+prefix=/home/blasterbotica/catkin_ws/install
+
+Name: blasturtle_turtlebot_navigation
+Description: Description of blasturtle_turtlebot_navigation
+Version: 2.3.3
+Cflags: 
+Libs: -L/home/blasterbotica/catkin_ws/install/lib 
+Requires: 

@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<opencv_storage>
+<type>0</type>
+<nlocs>5</nlocs>
+<ids type_id="opencv-matrix">
+  <rows>5</rows>
+  <cols>1</cols>
+  <dt>i</dt>
+  <data>
+    0 1 2 3 4</data></ids>
+<locations type_id="opencv-matrix">
+  <rows>5</rows>
+  <cols>1</cols>
+  <dt>"3f"</dt>
+  <data>
+    216. -195. 0.
+    0. -195. 0.
+    -216. -195. 0.
+    216. 5. 0.
+    -216. 5. 0.</data></locations>
+<childBoard>
+    "hybrid_aruco.xml"</childBoard>
+</opencv_storage>

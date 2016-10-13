@@ -1,0 +1,8 @@
+prefix=/home/blasterbotica/catkin_ws/install
+
+Name: robot_setup
+Description: Description of robot_setup
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/blasterbotica/catkin_ws/install/lib 
+Requires: 

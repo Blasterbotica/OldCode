@@ -1,0 +1,8 @@
+prefix=/home/blasterbotica/catkin_ws/devel
+
+Name: sample_publisher
+Description: Description of sample_publisher
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/blasterbotica/catkin_ws/devel/lib 
+Requires: 

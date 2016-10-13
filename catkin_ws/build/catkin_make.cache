@@ -1,0 +1,2 @@
+beginner_tutorials:blasterbotica_fiducial:blasturtle_sim:blasturtle_turtlebot_navigation:gamepad_publisher:learning_tf:odom_test:robot_setup:sample_publisher:simple_navigation_goals
+-DCATKIN_DEVEL_PREFIX=/home/blasterbotica/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/blasterbotica/catkin_ws/install -G Unix Makefiles
